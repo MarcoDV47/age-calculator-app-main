@@ -1,0 +1,25 @@
+div.wrapper {
+    width: 70vw;
+    max-width: 480px;
+    height: 390px;
+}
+
+.inputs {
+    justify-content: flex-start;
+    margin: 0 2em 15px;
+    gap: 1.5em;
+}
+
+hr {
+    margin: 0 1.5em;
+}
+
+form button {
+    right: 10%;
+}
+
+div.age {
+    margin: 1em 1em;
+    font-size: 1.8em;
+    text-align: left;
+}
